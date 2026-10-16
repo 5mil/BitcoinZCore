@@ -1,0 +1,5 @@
+# BitcoinZCore config example
+rpcuser=bitcoin
+rpcpassword=password
+rpcport=8332
+# datadir=bitcoinzcore
